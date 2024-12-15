@@ -1,0 +1,15 @@
+# Archivos y carpetas generados automáticamente por Visual Studio
+.vs/
+bin/
+obj/
+
+# Configuración de usuario
+*.user
+*.suo
+
+# Archivos temporales del sistema
+*.log
+*.tmp
+*.temp
+Thumbs.db
+.DS_Store
